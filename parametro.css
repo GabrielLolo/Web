@@ -1,0 +1,23 @@
+
+
+#titulo1{
+    color:rgb(225,2,3);
+    text-decoration: underline;
+}
+
+#underline{
+    text-decoration: underline;
+}
+
+#texto1{
+    color:rgb(225,2,3);
+}
+
+#negrito{
+    font-weight:900;
+}
+
+#texto2{
+    color:rgb(5,255,3);
+}
+
