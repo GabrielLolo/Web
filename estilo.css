@@ -1,0 +1,19 @@
+
+.Caixa{
+    background-color:lightblue;
+    font-weight:900;
+    width: 15%;
+}
+
+.italico{
+    font-style: italic
+}
+.Caixa:focus{
+    background-color: white;
+}
+
+.Motivo{
+    background-color:lightblue;
+    font-weight:900;
+    width: 30%;
+}
